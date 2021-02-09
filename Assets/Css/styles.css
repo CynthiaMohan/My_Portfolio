@@ -103,15 +103,19 @@ color: aqua;
 .item a{
     text-decoration: none;
     color: #514d4e;
+    border-bottom: 3px solid #514d4e;
 }
 .item a:hover{
     color: aqua;
+    border-bottom: 3px solid aqua;
 }
 .project img{
+    padding: 0;
     width: 450px;
     height: 250px;
     opacity: 0.5;
     position: relative;
+    border: 3px solid aqua;
 }
 .project img:hover{
     opacity: 1;
