@@ -81,7 +81,7 @@ color:  rgb(76, 228, 228);
     font-weight: lighter;
 }
 .description-2{
-    width: 80%;
+    width: 70%;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
@@ -93,6 +93,7 @@ color:  rgb(76, 228, 228);
     height: 300px;
     width: 300px;
 }
+
 
 .contact-details{
     width: 90%;
