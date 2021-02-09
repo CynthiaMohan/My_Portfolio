@@ -123,8 +123,9 @@ color: aqua;
 .project-title{
     background-color: aqua;
     width: 200px;
-    position: absolute;
-   
+    position: relative;
+    bottom: 100px;
+    
     
 }
 .project-title h3{
